@@ -110,4 +110,7 @@ user_name:password(x):UserId:GroupId:Comment:HomeDirectory:DefaultShell
 - rpm -> redhat package management
 - パッケージの依存関係を解消するためにフロントエンドツールを使う→APT/YUM
 
-#
+# iノード
+ファイルの属性情報（生成日、権限情報など）が書いてあるデータ
+
+~ チルダ
