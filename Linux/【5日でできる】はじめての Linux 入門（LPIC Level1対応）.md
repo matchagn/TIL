@@ -114,3 +114,8 @@ user_name:password(x):UserId:GroupId:Comment:HomeDirectory:DefaultShell
 ファイルの属性情報（生成日、権限情報など）が書いてあるデータ
 
 ~ チルダ
+
+# ローカライズと国際化
+- 国際化 (Internationalization -> I18N)
+- 地域化 (Localization -> L10N)
+- 多言語化 (Multilingualization -> M17N)
