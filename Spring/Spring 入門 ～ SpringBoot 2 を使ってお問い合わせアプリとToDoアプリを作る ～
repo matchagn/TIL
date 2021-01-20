@@ -1,1 +1,17 @@
+# Entityクラス
+```java
+public class Member {
+  private int id; // field メンバ変数
+  private String name; // field メンバ変数
+  private String email; // field メンバ変数
 
+  // constructor メソッド、メンバ変数とも言う
+  // getter and setter
+  }
+  ```
+
+# インターフェース
+- 機能の概要を記す
+- クラスの自動生成をすることがある（MyBatisなどで）
+
+- Cmd + Shift + O -> import読み込み
